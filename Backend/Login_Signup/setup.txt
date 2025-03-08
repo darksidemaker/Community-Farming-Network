@@ -1,0 +1,11 @@
+$ pip install django
+
+$ django-admin startproject loginSignup
+
+$ cd loginSignup/
+
+$ python manage.py startapp base
+
+$ python manage.py migrate
+
+$ python manage.py runserver
