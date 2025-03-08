@@ -7,7 +7,7 @@ On macOS and Linux.
 
 environment-variables
         $ pip install python-dotenv
-Create a .env file
+Create a .env file Gemini API https://aistudio.google.com/apikey
         # GEMINI_API_KEY = YOUR_API_KEY
 In your Python script, you can use python-dotenv to load the .env file:
         # from dotenv import load_dotenv
